@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou [Enzo]!
 
-💻 **Desenvolvedor(a) Backend | Kotlin | Spring Boot**  
-📍 [Cidade/País]  
+💻 **Desenvolvedor Backend | Kotlin | Spring Boot**  
+📍 [Utinga/Brasil]  
 📚 Aprendendo: [Tecnologias novas]  
 
 ## 🛠️ **Tecnologias & Ferramentas**
@@ -17,5 +17,4 @@
 - [Outro Projeto](link) - Descrição breve
 
 ## 📫 **Contato**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-linkedin/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail)]([mailto:seuemail@gmail.com](https://mail.google.com/mail/u/1/#inbox))
