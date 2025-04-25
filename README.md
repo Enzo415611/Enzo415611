@@ -17,4 +17,4 @@
 - [Outro Projeto](link) - Descrição breve
 
 ## 📫 **Contato**
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail)]([mailto:seuemail@gmail.com](https://mail.google.com/mail/u/1/#inbox))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail)](https://mail.google.com/mail/u/1/#inbox)
