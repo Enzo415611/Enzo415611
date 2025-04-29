@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Enzo]!
+# 👋 Olá, eu sou Enzo!
 
 💻 **Desenvolvedor Backend | Kotlin | Spring Boot**  
 📍 [Utinga/Brasil]  
