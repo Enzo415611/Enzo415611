@@ -1,20 +1,33 @@
-# 👋 Olá, eu sou Enzo!
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1e1e1e&height=200&section=header&text=Explorando%20o%20universo%20Rust%20🦀&fontSize=30&fontColor=ffffff" />
 
-💻 **Desenvolvedor Backend | Kotlin | Spring Boot**  
-📍 [Utinga/Brasil]  
-📚 Aprendendo: ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) 
+<!-- Bio -->
+<h2 align="center">👋 Olá, eu sou Enzo Queiroz Costa</h2>
+<p align="center">🦀 Programador iniciante, atualmente focado 100% em aprender <strong>Rust</strong><br>
+Construindo meu caminho uma linha de código por vez 🚀</p>
 
-## 🛠️ **Tecnologias & Ferramentas**
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+---
 
+### 📘 Sobre mim
+- 🚀 Estudando Rust desde o zero
+- 🧠 Interesses: sistemas performáticos, programação de baixo nível e aprendizado constante
+- 🛠️ A cada commit, um passo a mais no meu progresso
 
-## 📊 **GitHub Stats**
-![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dracula)
+---
 
-## 🔥 **Projetos em Destaque**
-- [API Produtos Kotlin](https://github.com/SEUUSERNAME/api-produtos-spring-kotlin) - API RESTful para gestão de produtos
-- [Outro Projeto](link) - Descrição breve
+### 📈 Minhas estatísticas no GitHub
 
-## 📫 **Contato**
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail)](https://mail.google.com/mail/u/1/#inbox)
+<!-- GitHub Stats -->
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=radical&langs_count=5"/>
+</p>
+
+---
+
+### 🧠 Em aprendizado
+
+```rust
+fn main() {
+    println!("Olá, mundo! Estou aprendendo Rust!");
+}
