@@ -19,8 +19,8 @@ Construindo meu caminho uma linha de código por vez 🚀</p>
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=radical&langs_count=5"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Enzo415611&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo415611&layout=compact&theme=radical&langs_count=5"/>
 </p>
 
 ---
