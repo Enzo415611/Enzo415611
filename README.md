@@ -20,8 +20,8 @@
 ### 📈 Minhas estatísticas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enzo415611&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo415611&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Enzo415611&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enzo415611&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 </p>
 
 ---
