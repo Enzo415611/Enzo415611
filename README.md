@@ -3,33 +3,38 @@
 </p>
 
 <h2 align="center">👋 Olá, eu sou Enzo Queiroz Costa</h2>
+
 <p align="center">
-  🦀 Programador iniciante, atualmente focado 100% em aprender <strong>Rust</strong><br>
-  Construindo meu caminho uma linha de código por vez 🚀
+  🦀 Programador iniciante, apaixonado por <strong>Rust</strong><br>
+  Atualmente focado em Rust + interfaces modernas com <strong>Slint</strong> 🚀<br>
+  Construindo meu caminho uma linha de código por vez
 </p>
 
 ---
 
 ### 📘 Sobre mim
-- 🚀 Estudando **Rust** desde o zero.
-- 🧠 Interesses: sistemas performáticos, programação de baixo nível e aprendizado constante.
-- 🛠️ A cada commit, um passo a mais no meu progresso.
+
+- 🦀 Aprendendo **Rust** desde o zero e amando cada momento
+- 🖼️ Explorando **Slint** para criar interfaces declarativas, performáticas e nativas
+- 🧠 Interesses: sistemas performáticos, programação de baixo nível, GUIs modernas e aprendizado constante
+- 🛠️ A cada commit, um passo a mais no meu progresso
 
 ---
 
 ### 📈 Minhas estatísticas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Enzo415611&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enzo415611&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Enzo415611&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas GitHub" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enzo415611&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
-### 🧠 Em aprendizado
+### 🧠 Linguagens e tecnologias que estou usando / aprendendo
 
-```rust
-fn main() {
-    let progresso = "constante";
-    println!("Olá, mundo! Meu aprendizado em Rust está em nível: {}", progresso);
-}
+<div align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=ffffff" alt="Rust" />
+  <img src="https://img.shields.io/badge/Slint-2379BD?style=for-the-badge&logo=slint&logoColor=white" alt="Slint" />
+</div>
+
+<br>
