@@ -5,8 +5,7 @@
 <h2 align="center">👋 Olá, eu sou Enzo Queiroz Costa</h2>
 
 <p align="center">
-  🦀 Apaixonado por <strong>Rust</strong> e interfaces nativas modernas<br>
-  Focado em <strong>Rust + Slint</strong> para criar aplicações rápidas, bonitas e multiplataforma<br>
+  Focado em <strong>Rust</strong> para criar aplicações rápidas e multiplataforma<br>
 </p>
 
 <div align="center">
@@ -19,8 +18,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🦀 Rust é minha linguagem principal no momento — comecei do zero e não largo mais  
-- 🖼️ Usando **Slint** para criar interfaces declarativas, performáticas e nativas   
+- 🦀 Rust é minha linguagem principal no momento
 - 🔧 Interesses: sistemas performáticos, programação de baixo nível, GUIs modernas, aprendizado contínuo  
 
 ---
