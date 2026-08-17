@@ -26,9 +26,7 @@
 ### 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Enzo415611&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas GitHub" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Enzo415611&layout=compact&theme=dracula&hide_border=true&langs_count=7&hide=html,css" alt="Linguagens mais usadas" />
+  <img src="https://ghstats.dev/api/card?username=Enzo415611&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
